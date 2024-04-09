@@ -5,7 +5,7 @@ This Python code, likely named `main.py`, enables you to interact with the Gemin
 
 **Install Library:** Install the generativeai library using pip
 
-- `pip install generativeai`
+- `pip install -q -U google-generativeai`
 
 **Import:**
 
