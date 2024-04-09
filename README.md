@@ -3,6 +3,10 @@
 
 This Python code, likely named `main.py`, enables you to interact with the Gemini text generation API from Google AI. Here's a breakdown of its functionality:
 
+**Install Library:** Install the generativeai library using pip
+
+- `pip install generativeai`
+
 **Import:**
 
 - `import google.generativeai as genai`: This line imports the `generativeai` library, which provides functions for accessing the Gemini API.
